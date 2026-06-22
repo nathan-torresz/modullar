@@ -1,5 +1,5 @@
 /* Service worker MODULLAR — cache-first para uso offline */
-const CACHE = 'modullar-v1';
+const CACHE = 'modullar-v2';
 const ASSETS = [
   'index.html', 'app.html', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'favicon.png', 'apple-touch-icon.png', 'og-image.png'
